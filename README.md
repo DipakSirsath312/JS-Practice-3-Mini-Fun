@@ -22,3 +22,13 @@ The main focus is on implementing **throttling** to optimize high-frequency even
 - **JavaScript (ES6)** – Logic & Interactivity  
 
 ---
+
+## ✨ Key Concepts Covered
+
+- JavaScript Event Handling  
+- Throttle Function Implementation  
+- Performance Optimization  
+- DOM Manipulation  
+- Clean & Modular Code Structure  
+
+---
