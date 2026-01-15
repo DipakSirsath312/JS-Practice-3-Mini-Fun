@@ -48,3 +48,20 @@ JS-Practice-3-Mini-Fun/
 └── README.md
 
 ---
+
+## 📌 Learning Outcome
+
+Through this project, I gained a better understanding of:
+- How throttling controls function execution frequency  
+- Why performance optimization is important in real-world applications  
+- Writing reusable and readable JavaScript functions  
+
+---
+
+## 🔗 Live Demo / Repository
+
+📌 **GitHub Repository:**  
+
+👉 https://github.com/DipakSirsath312/JS-Practice-3-Mini-Fun
+
+---
