@@ -32,3 +32,19 @@ The main focus is on implementing **throttling** to optimize high-frequency even
 - Clean & Modular Code Structure  
 
 ---
+
+## 📂 Project Structure
+
+JS-Practice-3-Mini-Fun/
+
+│
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+└── README.md
+
+---
