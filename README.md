@@ -65,3 +65,12 @@ Through this project, I gained a better understanding of:
 👉 https://github.com/DipakSirsath312/JS-Practice-3-Mini-Fun
 
 ---
+
+## 🙌 Acknowledgement
+
+This project is part of my self-learning journey in JavaScript.  
+Feedback and suggestions are always welcome!
+
+---
+
+### ⭐ If you like this project, don’t forget to star the repository!
