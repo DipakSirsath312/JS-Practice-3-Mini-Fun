@@ -14,3 +14,11 @@ This mini project demonstrates how JavaScript can be used to create smooth and e
 The main focus is on implementing **throttling** to optimize high-frequency events and improve performance.
 
 ---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (ES6)** – Logic & Interactivity  
+
+---
